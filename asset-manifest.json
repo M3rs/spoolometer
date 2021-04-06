@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spoolometer/static/css/main.ae2da030.chunk.css",
+    "main.js": "/spoolometer/static/js/main.7336f5e4.chunk.js",
+    "main.js.map": "/spoolometer/static/js/main.7336f5e4.chunk.js.map",
+    "runtime-main.js": "/spoolometer/static/js/runtime-main.8d3aacf2.js",
+    "runtime-main.js.map": "/spoolometer/static/js/runtime-main.8d3aacf2.js.map",
+    "static/js/2.8b2637bb.chunk.js": "/spoolometer/static/js/2.8b2637bb.chunk.js",
+    "static/js/2.8b2637bb.chunk.js.map": "/spoolometer/static/js/2.8b2637bb.chunk.js.map",
+    "static/js/3.9e47b0ab.chunk.js": "/spoolometer/static/js/3.9e47b0ab.chunk.js",
+    "static/js/3.9e47b0ab.chunk.js.map": "/spoolometer/static/js/3.9e47b0ab.chunk.js.map",
+    "index.html": "/spoolometer/index.html",
+    "static/css/main.ae2da030.chunk.css.map": "/spoolometer/static/css/main.ae2da030.chunk.css.map",
+    "static/js/2.8b2637bb.chunk.js.LICENSE.txt": "/spoolometer/static/js/2.8b2637bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d3aacf2.js",
+    "static/js/2.8b2637bb.chunk.js",
+    "static/css/main.ae2da030.chunk.css",
+    "static/js/main.7336f5e4.chunk.js"
+  ]
+}

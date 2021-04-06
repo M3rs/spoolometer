@@ -1,0 +1,44 @@
+div.app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #F7EDE2;
+    padding: 1rem;
+
+}
+
+div.spoolSize {
+    margin: 1rem 0;
+
+    display: flex;
+    justify-content: center;
+
+    input {
+        width: 100%;
+    }
+
+    button {
+        color: white;
+        background-color: #F28482;
+        padding: 5px;
+    }
+}
+
+section.addPrint {
+
+    input {
+        width: 100%;
+        font-size: large;
+        padding: .5rem 0;
+    }
+
+
+    button {
+        width: 100%;
+        font-size: xx-large;
+        color:white;
+        background-color: #84A59D;
+    }
+}
